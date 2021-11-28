@@ -103,7 +103,7 @@ async def start(bot, cmd):
                         InlineKeyboardButton("Join Now🎉", url="https://t.me/CoursesDrive")
                     ],
                     [
-                        InlineKeyboardButton("☢️**Send Your Movie Name**☢️", callback_data="about")
+                        InlineKeyboardButton("☢️𝐒𝐞𝐧𝐝 𝐘𝐨𝐮𝐫 𝐌𝐨𝐯𝐢𝐞 𝐍𝐚𝐦𝐞☢️", callback_data="about")
                     ]
                 ]
             )
