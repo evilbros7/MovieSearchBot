@@ -99,11 +99,11 @@ async def start(bot, cmd):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
+                        InlineKeyboardButton("🔍Search Here🔎", switch_inline_query_current_chat=''),
                         InlineKeyboardButton("Join Now🎉", url="https://t.me/CoursesDrive")
                     ],
                     [
-                        InlineKeyboardButton("About", callback_data="about")
+                        InlineKeyboardButton("☢️**Send Your Movie Name**☢️", callback_data="about")
                     ]
                 ]
             )
