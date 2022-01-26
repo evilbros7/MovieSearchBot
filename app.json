@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "website": "https://github.com/evilbros7/MovieSearchBot",
+    "repository": "https://github.com/evilbros7/MovieSearchBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
